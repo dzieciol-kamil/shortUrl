@@ -1,0 +1,2 @@
+# short.ly
+Learning Django
